@@ -13,7 +13,7 @@ public class CalculateWord {
         }
 
         String textFile = args[0];
-        String stopWordsFile = "./stop_words.txt";
+        String stopWordsFile = "../stop_words.txt";
         String text = "";
 
         // Read the entire text file into a String.
